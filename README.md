@@ -33,16 +33,22 @@ data-preprocessing-toolkit/
 id,name,age,income
 
 1,Ali,30,5000
+
 2,Reza,,10000
+
 3,Sara,25,999999
+
 4,Hossein,27,?
 
 ## Example Output
 id,name,age,income
 
 1,Ali,30,5000
+
 2,Reza,27.3,10000
+
 3,Sara,25,5400
+
 4,Hossein,27,5400
 
 
