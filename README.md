@@ -14,9 +14,13 @@ handling **missing values**, detecting **outliers**, and fixing **encoding issue
 ---
 
 ##  Project Structure
+
 data-preprocessing-toolkit/
+
 ├── preprocess.py # Main preprocessing script
+
 ├── input.csv # Example input dataset
+
 └── output_clean.csv # Processed dataset
 
 
