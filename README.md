@@ -54,7 +54,8 @@ id,name,age,income
 
 ### Author
 
-Ali Zamanpour Freelance Data Engineer & AI Specialist
+Ali Zamanpour 
+
 Freelance Data Engineer & AI Specialist
 
 ### License
